@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reanqbow, a grad student @HarvardGSD
+- 👋 Hi, I’m @yubo, a grad student @HarvardGSD
 - 👀 I’m interested in HCI, XR, and anything intersecting with *SPACE*, *TECH*, and *HUMAN EXPERIENCE*!
 - 🌱 I’m currently learning XR development.
 - 📫 Please feel free to contact with me reanqbow@gmail.com
